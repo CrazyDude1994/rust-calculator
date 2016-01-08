@@ -7,6 +7,11 @@ public class CraftItem {
     private String mName;
     private String mInfo;
 
+    public CraftItem(String mName, String mInfo) {
+        this.mName = mName;
+        this.mInfo = mInfo;
+    }
+
     public String getName() {
         return mName;
     }

@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getSupportFragmentManager().beginTransaction()
-                .add(R.id.activity_main_placeholder, ItemListFragment.newInstance())
+                .replace(R.id.activity_main_placeholder, ItemListFragment.newInstance())
                 .commit();
     }
 }

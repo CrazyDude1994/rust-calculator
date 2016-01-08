@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -34,10 +33,15 @@ public class ItemListFragment extends Fragment {
         mRecyclerView = (RecyclerView) view.findViewById(R.id.fragment_item_list_recycler);
 
         ItemListAdapter itemListAdapter = new ItemListAdapter();
-        itemListAdapter.setData(new ArrayList<CraftItem>());
+        ArrayList<CraftItem> craftItems = new ArrayList<>();
+        craftItems.add(new CraftItem("rofl", "OMG"));
+        craftItems.add(new CraftItem("rofl", "OMG"));
+        craftItems.add(new CraftItem("rofl", "OMG"));
+        craftItems.add(new CraftItem("rofl", "OMG"));
 
-        mRecyclerView.setLayoutManager(new GridLayoutManager(getContext(), 2, LinearLayoutManager.VERTICAL, false));
+        mRecyclerView.setLayoutManager(new GridLayoutManager(getContext(), 2));
         mRecyclerView.setAdapter(itemListAdapter);
+        itemListAdapter.setData(craftItems);
         return view;
     }
 }

@@ -1,7 +1,6 @@
 package com.crazydude.rustcalculator;
 
 import android.support.v7.widget.RecyclerView;
-import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.ArrayList;
@@ -15,12 +14,12 @@ public class ItemListAdapter extends RecyclerView.Adapter<ItemListAdapter.ViewHo
 
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        return null;
+        return new ViewHolder(new CraftItemView(parent.getContext()));
     }
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        holder.
+        holder.getItemView().setData(mCraftItems.get(position));
     }
 
     @Override
@@ -30,11 +29,17 @@ public class ItemListAdapter extends RecyclerView.Adapter<ItemListAdapter.ViewHo
 
     public void setData(ArrayList<CraftItem> data) {
         mCraftItems = data;
+        notifyDataSetChanged();
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
-        public ViewHolder(View itemView) {
+
+        public ViewHolder(CraftItemView itemView) {
             super(itemView);
+        }
+
+        public CraftItemView getItemView() {
+            return (CraftItemView) itemView;
         }
     }
 }
