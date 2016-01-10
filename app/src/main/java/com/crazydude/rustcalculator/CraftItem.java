@@ -1,30 +1,46 @@
 package com.crazydude.rustcalculator;
 
+import java.util.ArrayList;
+
+import io.realm.RealmList;
+import io.realm.RealmObject;
+import io.realm.annotations.PrimaryKey;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.experimental.Accessors;
+
 /**
  * Created by kartavtsev.s on 08.01.2016.
  */
-public class CraftItem {
-    private String mName;
-    private String mInfo;
+public class CraftItem extends RealmObject {
 
-    public CraftItem(String mName, String mInfo) {
-        this.mName = mName;
-        this.mInfo = mInfo;
+    @PrimaryKey
+    private int id;
+    private String name;
+
+    private ArrayList<CraftItemAmount> craftItems;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
-        return mName;
+        return name;
     }
 
     public void setName(String name) {
-        this.mName = mName;
+        this.name = name;
     }
 
-    public String getInfo() {
-        return mInfo;
+    public ArrayList<CraftItemAmount> getCraftItems() {
+        return craftItems;
     }
 
-    public void setInfo(String info) {
-        this.mInfo = mInfo;
+    public void setCraftItems(ArrayList<CraftItemAmount> craftItems) {
+        this.craftItems = craftItems;
     }
 }

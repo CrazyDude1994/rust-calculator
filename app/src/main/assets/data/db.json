@@ -1,0 +1,2535 @@
+[
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      },
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1461508848,
+    "name": "Assault Rifle"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 5,
+        "craftItem": -892070738,
+        "name": "Stones"
+      },
+      {
+        "amount": 5,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": 2115555558,
+    "name": "Handmade Shell"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 5,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": -533875561,
+    "name": "Pistol Bullet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 10,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 5,
+        "craftItem": -891243783,
+        "name": "Sulfur"
+      },
+      {
+        "amount": 1,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 1621541165,
+    "name": "Incendiary Pistol Bullet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 20,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": -422893115,
+    "name": "HV Pistol Ammo"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 5,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": 815896488,
+    "name": "5.56 Rifle Ammo"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 20,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 10,
+        "craftItem": -891243783,
+        "name": "Sulfur"
+      }
+    ],
+    "id": 805088543,
+    "name": "Explosive 5.56 Rifle Ammo"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 20,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 5,
+        "craftItem": -891243783,
+        "name": "Sulfur"
+      },
+      {
+        "amount": 1,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 449771810,
+    "name": "Incendiary 5.56 Rifle Ammo"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 20,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": 1152393492,
+    "name": "HV 5.56 Rifle Ammo"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 150,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 10,
+        "craftItem": 1755466030,
+        "name": "Explosives"
+      }
+    ],
+    "id": 1578894260,
+    "name": "Rocket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 250,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 250,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      },
+      {
+        "amount": 1,
+        "craftItem": 1755466030,
+        "name": "Explosives"
+      }
+    ],
+    "id": 1436532208,
+    "name": "Incendiary Rocket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 200,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 10,
+        "craftItem": 1755466030,
+        "name": "Explosives"
+      }
+    ],
+    "id": 542276424,
+    "name": "High Velocity Rocket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 200,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 25,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 1594947829,
+    "name": "Smoke Rocket WIP!!!!"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 5,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 10,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": -1035059994,
+    "name": "12 Gauge Buckshot"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 20,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": 1819281075,
+    "name": "12 Gauge Slug"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 40,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 15,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": -1280058093,
+    "name": "High Velocity Arrow"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 25,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 10,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": -420273765,
+    "name": "Wooden Arrow"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1,
+        "craftItem": 1490499512,
+        "name": "Targeting Computer"
+      },
+      {
+        "amount": 1,
+        "craftItem": 1300054961,
+        "name": "CCTV Camera"
+      },
+      {
+        "amount": 1,
+        "craftItem": -1461508848,
+        "name": "Assault Rifle"
+      },
+      {
+        "amount": 50,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": 563023711,
+    "name": "Auto Turret"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 250,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 790921853,
+    "name": "Salvaged Axe"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 4,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -337261910,
+    "name": "Bandage"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": 498312426,
+    "name": "Concrete Barricade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 504904386,
+    "name": "Metal Barricade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": -1221200300,
+    "name": "Sandbag Barricade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": 510887968,
+    "name": "Stone Barricade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 350,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -814689390,
+    "name": "Wooden Barricade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 350,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 200,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1024486167,
+    "name": "Barbed Wooden Barricade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1046072789,
+    "name": "Snap Trap"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 60,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 97409,
+    "name": "Bed"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 30,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      },
+      {
+        "amount": 100,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -55660037,
+    "name": "Bolt Action Rifle"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 200,
+        "craftItem": -365801095,
+        "name": "Bone Fragments"
+      }
+    ],
+    "id": 1186854727,
+    "name": "Bone Jacket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 150,
+        "craftItem": -365801095,
+        "name": "Bone Fragments"
+      }
+    ],
+    "id": 459479619,
+    "name": "Bone Armor Pants"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": -365801095,
+        "name": "Bone Fragments"
+      }
+    ],
+    "id": 919780768,
+    "name": "Bone Club"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 30,
+        "craftItem": -1034048911,
+        "name": "Animal Fat"
+      }
+    ],
+    "id": 68998734,
+    "name": "Bota Bag"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -853695669,
+    "name": "Hunting Bow"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 250,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 271534758,
+    "name": "Large Wood Box"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -770311783,
+    "name": "Wood Storage Box"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 40,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1260209393,
+    "name": "Bucket Helmet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1,
+        "craftItem": 106434956,
+        "name": "Paper"
+      }
+    ],
+    "id": -307490664,
+    "name": "Building Plan"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 50834473,
+        "name": "Leather"
+      }
+    ],
+    "id": 115739308,
+    "name": "Leather Gloves"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1035315940,
+    "name": "Burlap Headwrap"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 707427396,
+    "name": "Burlap Shirt"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 707432758,
+    "name": "Burlap Shoes"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1767561705,
+    "name": "Burlap Trousers"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -139769801,
+    "name": "Camp Fire"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 15,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 60,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -2128719593,
+    "name": "Coffee Can Helmet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 350,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 75,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 25,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 2123300234,
+    "name": "Crossbow"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1000,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 1257201758,
+    "name": "Tool Cupboard"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 150,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -2104481870,
+    "name": "Sheet Metal Door"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 400,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 500,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 2,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": -1571725662,
+    "name": "Armored Door"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 1456441506,
+    "name": "Wooden Door"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 25,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 1200628767,
+    "name": "Door Key"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 25,
+        "craftItem": 1755466030,
+        "name": "Explosives"
+      },
+      {
+        "amount": 5,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 498591726,
+    "name": "Timed Explosive Charge"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 3,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      },
+      {
+        "amount": 10,
+        "craftItem": -891243783,
+        "name": "Sulfur"
+      },
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1755466030,
+    "name": "Explosives"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 3,
+        "craftItem": -1034048911,
+        "name": "Animal Fat"
+      },
+      {
+        "amount": 1,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 28178745,
+    "name": "Low Grade Fuel"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": -892070738,
+        "name": "Stones"
+      },
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": -505639592,
+    "name": "Furnace"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": -892070738,
+        "name": "Stones"
+      },
+      {
+        "amount": 600,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 75,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 1598149413,
+    "name": "Large Furnace"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 3000,
+        "craftItem": -892070738,
+        "name": "Stones"
+      },
+      {
+        "amount": 1000,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1779401418,
+    "name": "High External Stone Gate"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 2000,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -57285700,
+    "name": "High External Wooden Gate"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 1000,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 100,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": 277631078,
+    "name": "Wind Turbine"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 20,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 384204160,
+    "name": "Beancan Grenade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 150,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1308622549,
+    "name": "F1 Grenade"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 10,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -217113639,
+    "name": "Acoustic Guitar"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 1436001773,
+        "name": "Charcoal"
+      },
+      {
+        "amount": 20,
+        "craftItem": -891243783,
+        "name": "Sulfur"
+      }
+    ],
+    "id": -1580059655,
+    "name": "Gun Powder"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1224598842,
+    "name": "Hammer"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1976561211,
+    "name": "Salvaged Hammer"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1406876421,
+    "name": "Beenie Hat"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 40,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1397343301,
+    "name": "Boonie Hat"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 5,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": -1381682752,
+    "name": "Candle Hat"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 696727039,
+    "name": "Baseball Cap"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 10,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -450738836,
+    "name": "Miners Hat"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 698310895,
+    "name": "Hatchet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1078788046,
+    "name": "Hazmat Boots"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1057685737,
+    "name": "Hazmat Gloves"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1079752220,
+    "name": "Hazmat Helmet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1133046397,
+    "name": "Hazmat Jacket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1066276787,
+    "name": "Hazmat Pants"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 50834473,
+        "name": "Leather"
+      }
+    ],
+    "id": -148163128,
+    "name": "Hide Boots"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 45,
+        "craftItem": 50834473,
+        "name": "Leather"
+      }
+    ],
+    "id": -135651869,
+    "name": "Hide Pants"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 70,
+        "craftItem": 50834473,
+        "name": "Leather"
+      }
+    ],
+    "id": 102672084,
+    "name": "Hide Poncho"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 50834473,
+        "name": "Leather"
+      }
+    ],
+    "id": -1666761111,
+    "name": "Hide Vest"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 60,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": -465236267,
+    "name": "Holosight"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 5,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1211618504,
+    "name": "Hoodie"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 25,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 150,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1440143841,
+    "name": "Salvaged Icepick"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 250,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1616887133,
+    "name": "Snow Jacket - Red"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1167640370,
+    "name": "Jacket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 2,
+        "craftItem": -225085592,
+        "name": "Pumpkin"
+      }
+    ],
+    "id": -1284735799,
+    "name": "Jack O Lantern Angry"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 2,
+        "craftItem": -225085592,
+        "name": "Pumpkin"
+      }
+    ],
+    "id": -1278649848,
+    "name": "Jack O Lantern Happy"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 60,
+        "craftItem": -365801095,
+        "name": "Bone Fragments"
+      },
+      {
+        "amount": 10,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 776005741,
+    "name": "Bone Knife"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 108061910,
+    "name": "Wooden Ladder"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 75,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 125,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      }
+    ],
+    "id": 255101535,
+    "name": "Land Mine"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 15,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": -51678842,
+    "name": "Lantern"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 2,
+        "craftItem": 586484018,
+        "name": "Medical Syringe"
+      },
+      {
+        "amount": 50,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": -789202811,
+    "name": "Large Medkit"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 400,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -975723312,
+    "name": "Code Lock"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 1908195100,
+    "name": "Lock"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 200,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 146685185,
+    "name": "Longsword"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 120,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 3343606,
+    "name": "Mace"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 75,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 825308669,
+    "name": "Machete"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 5,
+        "craftItem": 106434956,
+        "name": "Paper"
+      }
+    ],
+    "id": 107868,
+    "name": "Paper Map"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 40,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 997973965,
+    "name": "Improvised Balaclava"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 40,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -46188931,
+    "name": "Bandana Mask"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 50834473,
+        "name": "Leather"
+      },
+      {
+        "amount": 8,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": -46848560,
+    "name": "Metal Facemask"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 50834473,
+        "name": "Leather"
+      },
+      {
+        "amount": 10,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": 1265861812,
+    "name": "Metal Chest Plate"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10000,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 1750,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 500,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1411620422,
+    "name": "Mining Quarry"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 5,
+        "craftItem": 106434956,
+        "name": "Paper"
+      }
+    ],
+    "id": 3387378,
+    "name": "Note"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 5,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 106433500,
+    "name": "Pants"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 106434956,
+    "name": "Paper"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -578028723,
+    "name": "Pick Axe"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 150,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 35,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1379225193,
+    "name": "Eoka Pistol"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 25,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -930579334,
+    "name": "Revolver"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 25,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 15,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": 548699316,
+    "name": "Semi-Automatic Pistol"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1026117678,
+    "name": "Repair Bench"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 1000,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 1,
+        "craftItem": -1026117678,
+        "name": "Repair Bench"
+      }
+    ],
+    "id": 1987447227,
+    "name": "Research Table"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 340009023,
+    "name": "Riot Helmet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 40,
+        "craftItem": 50834473,
+        "name": "Leather"
+      },
+      {
+        "amount": 60,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -288010497,
+    "name": "Road Sign Jacket"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 10,
+        "craftItem": 50834473,
+        "name": "Leather"
+      },
+      {
+        "amount": 30,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1595790889,
+    "name": "Road Sign Kilt"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 60,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      },
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 80,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 649603450,
+    "name": "Rocket Launcher"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 175,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1775234707,
+    "name": "Salvaged Cleaver"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 25,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -388967316,
+    "name": "Salvaged Sword"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 250,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 125,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 2057749608,
+    "name": "Salvaged Shelves"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 50834473,
+        "name": "Leather"
+      },
+      {
+        "amount": 15,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 2107229499,
+    "name": "Boots"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      },
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 40,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1009492144,
+    "name": "Pump Shotgun"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 2077983581,
+    "name": "Waterpipe Shotgun"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -529054135,
+    "name": "Metal horizontal embrasure"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -529054134,
+    "name": "Metal Vertical embrasure"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 486166145,
+    "name": "Wood Shutters"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1000,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 1000,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1628490888,
+    "name": "Large Banner Hanging"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1000,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1498516223,
+    "name": "Two Sided Hanging Sign"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1000,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -632459882,
+    "name": "Two Sided Ornate Hanging Sign"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 150,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 150,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -626812403,
+    "name": "Landscape Picture Frame"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 150,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 150,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 385802761,
+    "name": "Portrait Picture Frame"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 200,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 2117976603,
+    "name": "Tall Picture Frame"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 300,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1338515426,
+    "name": "XL Picture Frame"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 500,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -1455694274,
+    "name": "XXL Picture Frame"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 750,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 750,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 750,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1579245182,
+    "name": "Large Banner on pole"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 225,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -587434450,
+    "name": "Double Sign Post"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -163742043,
+    "name": "Single Sign Post"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 250,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1224714193,
+    "name": "One Sided Town Sign Post"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 500,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 644359987,
+    "name": "Two Sided Town Sign Post"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1000,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1962514734,
+    "name": "Huge Wooden Sign"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 700,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -705305612,
+    "name": "Large Wooden Sign"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -357728804,
+    "name": "Wooden Sign"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -698499648,
+    "name": "Small Wooden Sign"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      }
+    ],
+    "id": 1213686767,
+    "name": "Silencer"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 1253290621,
+    "name": "Sleeping Bag"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 500,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 250,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 470729623,
+    "name": "Small Oil Refinery"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1051155022,
+    "name": "Small Stash"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      },
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 10,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 109552593,
+    "name": "Custom SMG"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1,
+        "craftItem": -1127699509,
+        "name": "Wooden Spear"
+      },
+      {
+        "amount": 100,
+        "craftItem": -892070738,
+        "name": "Stones"
+      },
+      {
+        "amount": 25,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -2118132208,
+    "name": "Stone Spear"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1127699509,
+    "name": "Wooden Spear"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -685265909,
+    "name": "Wooden Floor Spikes"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 250,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 125,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": 789892804,
+    "name": "Stone Pick Axe"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 100,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": -1289478934,
+    "name": "Stone Hatchet"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": -1580059655,
+        "name": "Gun Powder"
+      },
+      {
+        "amount": 5,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 20,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 1293049486,
+    "name": "Survey Charge"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 15,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 10,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      },
+      {
+        "amount": 10,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 586484018,
+    "name": "Medical Syringe"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 35,
+        "craftItem": 374890416,
+        "name": "High Quality Metal"
+      },
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 456448245,
+    "name": "Thompson"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 30,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 1,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 5,
+        "craftItem": 28178745,
+        "name": "Low Grade Fuel"
+      }
+    ],
+    "id": 110547964,
+    "name": "Torch"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 50,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": -864578046,
+    "name": "T-Shirt"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 80,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      }
+    ],
+    "id": 1660607208,
+    "name": "Longsleeve T-Shirt"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1500,
+        "craftItem": -892070738,
+        "name": "Stones"
+      }
+    ],
+    "id": -496055048,
+    "name": "High External Stone Wall"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 1000,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1792066367,
+    "name": "High External Wooden Wall"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -1021702157,
+    "name": "Metal Window Bars"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": -402507101,
+    "name": "Reinforced Window Bars"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1556671423,
+    "name": "Wooden Window Bars"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 500,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 200,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1817873886,
+    "name": "Large Water Catcher"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 3655341,
+        "name": "Wood"
+      },
+      {
+        "amount": 50,
+        "craftItem": 688032252,
+        "name": "Metal Fragments"
+      }
+    ],
+    "id": 1824679850,
+    "name": "Small Water Catcher"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 100,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 1,
+        "craftItem": 1001265731,
+        "name": "Wolf Skull"
+      }
+    ],
+    "id": 124310981,
+    "name": "Wolf Headdress"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 300,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": 1554697726,
+    "name": "Wood Chestplate"
+  },
+  {
+    "craftItems": [
+      {
+        "amount": 20,
+        "craftItem": 94756378,
+        "name": "Cloth"
+      },
+      {
+        "amount": 200,
+        "craftItem": 3655341,
+        "name": "Wood"
+      }
+    ],
+    "id": -1883959124,
+    "name": "Wood Armor Pants"
+  }
+]

@@ -45,7 +45,7 @@ public class CraftItemView extends RelativeLayout {
     public void setData(CraftItem data) {
         if (data != null) {
             mNameText.setText(data.getName());
-            mDescriptionText.setText(data.getInfo());
+            mDescriptionText.setText("");
         }
     }
 }

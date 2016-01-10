@@ -1,8 +1,13 @@
 apply plugin: 'com.android.application'
+apply plugin: 'android-apt'
+apply plugin: 'me.tatarka.retrolambda'
+
+def supportLibraryVersion = '23.1.1'
+def retrofitVersion = '2.0.0-beta2'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion '23.0.2'
 
     defaultConfig {
         applicationId "com.crazydude.rustcalculator"
@@ -17,12 +22,39 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    packagingOptions {
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+    }
 }
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.1.1'
-    compile 'com.android.support:cardview-v7:23.1.1'
-    compile 'com.android.support:recyclerview-v7:23.1.1'
+
+    //butterknife
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+    //Android support
+    compile "com.android.support:appcompat-v7:$supportLibraryVersion"
+    compile "com.android.support:recyclerview-v7:$supportLibraryVersion"
+    compile "com.android.support:cardview-v7:$supportLibraryVersion"
+    compile "com.android.support:support-v4:$supportLibraryVersion"
+    compile "com.android.support:design:$supportLibraryVersion"
+
+    //Retrofit
+    compile "com.squareup.retrofit:retrofit:$retrofitVersion"
+    compile "com.squareup.retrofit:converter-gson:$retrofitVersion"
+    compile "com.squareup.retrofit:adapter-rxjava:$retrofitVersion"
+
+    //Realm
+    compile 'io.realm:realm-android:0.87.2'
+
+    //Misc
+    compile 'org.projectlombok:lombok:1.16.2'
+    apt 'org.projectlombok:lombok:1.16.2'
+    compile 'com.squareup.picasso:picasso:2.5.2'
 }
